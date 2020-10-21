@@ -1,3 +1,8 @@
-.dropdown{
+/* .dropdown{
     float:right;
+} */
+
+.smallPicture{
+        max-width: 10%;
+        height: auto;
 }
